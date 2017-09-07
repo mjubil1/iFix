@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?oubn4c');
+  src:  url('fonts/icomoon.eot?oubn4c#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?oubn4c') format('truetype'),
+    url('fonts/icomoon.woff?oubn4c') format('woff'),
+    url('fonts/icomoon.svg?oubn4c#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"],
+[class^="ion-ios-icon"],
+[class*="ion-ios-icon"],
+[class^="ion-md-icon"],
+[class*="ion-md-icon"]{
+  @extend .ion;
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@mixin makeIcon($arg, $val) {
+  
+  .ai-#{$arg}:before ,
+  
+  .ion-ios-ai-#{$arg}:before ,
+  
+  .ion-ios-ai-#{$arg}-outline:before ,
+  
+  .ion-md-ai-#{$arg}:before ,
+  
+  .ion-md-ai-#{$arg}-outline:before {
+  
+  content: $val;
+  
+  font-size: 26px;
+  
+  }
+  
+  }
+  
+  @include makeIcon(rock, '\e905');
+
+
+/*
+.icon-cracked_icon .path1:before {
+  content: "\e900";
+  color: rgb(138, 138, 138);
+}
+.icon-cracked_icon .path2:before {
+  content: "\e901";
+  margin-left: -0.52734375em;
+  color: rgb(255, 255, 255);
+}
+.icon-cracked_icon .path3:before {
+  content: "\e902";
+  margin-left: -0.52734375em;
+  color: rgb(216, 216, 216);
+}
+.icon-cracked_icon .path4:before {
+  content: "\e903";
+  margin-left: -0.52734375em;
+  color: rgb(138, 138, 138);
+}*/

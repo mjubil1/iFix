@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="108px" viewBox="0 0 57 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>cracked_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="design2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="settings" transform="translate(-111.000000, -2052.000000)">
+            <g id="Bottom_tabs" transform="translate(0.000000, 2005.000000)">
+                <g id="tab_icons" transform="translate(111.000000, 47.000000)">
+                    <g id="cracked_icon" transform="translate(28.500000, 54.000000) scale(-1, 1) translate(-28.500000, -54.000000) ">
+                        <path d="M9.000366,0 L47.999634,0 C52.9703985,0 57,3.62423565 57,8.0954559 L57,99.9045441 C57,104.37554 52.969161,108 47.999634,108 L9.000366,108 C4.0296015,108 0,104.375764 0,99.9045441 L0,8.0954559 C0,3.62445975 4.030839,0 9.000366,0 Z" id="use-as-wallpaper-path" fill="#8A8A8A"></path>
+                        <polygon id="use-as-wallpaper-path" fill="#FFFFFF" points="5.89655172 14.3317536 54.5431034 14.3317536 54.5431034 92.1327014 5.89655172 92.1327014"></polygon>
+                        <path d="M28.9913793,102.881517 C31.7051919,102.881517 33.9051724,101.048218 33.9051724,98.7867299 C33.9051724,96.5252419 31.7051919,94.6919431 28.9913793,94.6919431 C26.2775667,94.6919431 24.0775862,96.5252419 24.0775862,98.7867299 C24.0775862,101.048218 26.2775667,102.881517 28.9913793,102.881517 L28.9913793,102.881517 Z" id="use-as-wallpaper-path" fill="#D8D8D8"></path>
+                        <polygon id="Path" fill="#8A8A8A" points="21.5319262 14.3317536 17.1982759 30.8312957 27.525598 45.6062015 17.1982759 67.0521327 39.8017241 45.6062015 28.5 30.8312957 36.762814 14.3317536"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
